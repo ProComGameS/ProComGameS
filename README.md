@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ProComGameS
 - 👀 I’m interested in Web and app development.
-- 🌱 I’m currently learning HTML,CSS,Javascript,C++,C#.
+- 🌱 I’m currently learning Javascript,C++,C#.
